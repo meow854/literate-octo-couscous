@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(255, 153, 153);
+}
+
+p{
+    font-size: 20px;
+}
+
+#show_sketch{
+    float: right;
+    margin-right: 100px;
+    font-size: 17px;
+    height: 30px;
+    width: 130px;
+    border-radius: 5px;
+    border-color: rgb(255, 211, 240);
+    background-color: rgb(255, 222, 244);
+    font-weight: 300;
+}
+
+h1{
+    margin-left: 230px;
+    font-weight: bold;
+    text-shadow: 10px 15px 4px rgb(71, 66, 66);
+    color: black;
+}
